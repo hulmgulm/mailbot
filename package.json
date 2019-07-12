@@ -22,11 +22,11 @@
   },
   "homepage": "https://github.com/byteclubfr/mailbot#readme",
   "dependencies": {
-    "address-rfc2822": "^1.0.1",
-    "debug": "^2.6.0",
+    "address-rfc2822": "^2.0.4",
+    "debug": "^4.1.1",
     "imap": "^0.8.19",
-    "mailparser": "^0.6.2",
-    "striptags": "^3.0.1",
+    "mailparser": "^2.7.1",
+    "striptags": "^3.1.1",
     "talon": "^2.3.2"
   },
   "devDependencies": {
