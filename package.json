@@ -25,7 +25,7 @@
     "address-rfc2822": "^2.0.4",
     "debug": "^4.1.1",
     "imap": "^0.8.19",
-    "mailparser": "^2.7.1",
+    "mailparser": "^3.0.1",
     "striptags": "^3.1.1",
     "talon": "^2.3.2"
   },
